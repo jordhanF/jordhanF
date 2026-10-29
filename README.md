@@ -139,7 +139,7 @@ limpeza e visualização dos dados até a conclusão.
 
 ## 🎓 Agora
 
-Terminando a graduação na **FAESA**, com o artigo de TCC sobre automação de divulgação
+Terminando **Ciência da Computação na FAESA**, com o artigo de TCC sobre automação de divulgação
 com IA previsto para novembro. Estudando sistemas distribuídos — consenso, replicação e o
 que fazer quando a dependência do outro lado simplesmente não responde.
 
