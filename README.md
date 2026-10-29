@@ -2,7 +2,7 @@
 
 # Oi, eu sou o Jordhan 👋
 
-### Desenvolvedor · ERP e integrações · Sankhya · TypeScript, Python e Java
+### Desenvolvedor · ERP e integrações · TypeScript, Python e Java
 
 Trabalho onde o software encontra a operação: ERP, BI e aplicativos que rodam na mão
 de quem vende na rua, confere estoque no galpão e emite nota no fim do dia.
@@ -19,7 +19,7 @@ de quem vende na rua, confere estoque no galpão e emite nota no fim do dia.
 
 ## 🧭 No que eu trabalho
 
-**ERP Sankhya para três distribuidoras.** Regras fiscais, faturamento, carteira de
+**ERP para distribuidoras.** Regras fiscais, faturamento, carteira de
 clientes e os relatórios que a operação usa para fechar o mês. Muita consulta SQL,
 muita integração e nenhuma tolerância a número errado.
 
